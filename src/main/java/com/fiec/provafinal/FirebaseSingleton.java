@@ -1,4 +1,4 @@
-package com.fiec.revisaofinal;
+package com.fiec.provafinal;
 
 import com.google.auth.oauth2.GoogleCredentials;
 import com.google.firebase.FirebaseApp;
